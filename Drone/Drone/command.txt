@@ -1,0 +1,11 @@
+takeoff
+delay 5
+forward 30
+delay 5
+right 30
+delay 5
+back 30
+delay 5
+left 30
+delay 5
+land

@@ -1,0 +1,15 @@
+takeoff
+delay 5
+forward 40
+delay 5
+right 40
+delay 5
+back 40
+delay 5
+left 40
+delay 5
+up 40
+delay 5
+down 40
+delay 5
+land

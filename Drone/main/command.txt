@@ -1,0 +1,11 @@
+up 70
+forward 55
+ccw 90
+cw 90
+forward 55
+ccw 90
+cw 90
+forward 55
+ccw 90
+cw 90
+land
