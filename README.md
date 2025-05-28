@@ -10,8 +10,8 @@ Object Detect 기능을 탑재한 드론이 매장을 자율 주행하며 매대
     <td style="text-align: center;">드론이 촬영한 진열대 모습</td>
   </tr>
   <tr>
-    <td><img src="img/dron_fly.png" alt="Dron Fly" width="500" hight="150"/></td>
-    <td><img src="img/detect_blank.png" alt="Dron camera view" width="500" hight="150"/></td>
+    <td><img src="img/dron_fly.png" alt="Dron Fly" width="500" height="150"/></td>
+    <td><img src="img/detect_blank.png" alt="Dron camera view" width="500" height="150"/></td>
   </tr>
 </table>
 
