@@ -6,7 +6,7 @@ Object Detect 기능을 탑재한 드론이 매장을 자율 주행하며 매대
 
 <table>
   <tr>
-    <td style="text-align: center;">주행 중인 드론 모습/td>
+    <td style="text-align: center;">주행 중인 드론 모습</td>
     <td style="text-align: center;">드론이 촬영한 진열대 모습</td>
   </tr>
   <tr>
