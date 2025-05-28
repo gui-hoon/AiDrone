@@ -4,6 +4,17 @@
 Object Detect 기능을 탑재한 드론이 매장을 자율 주행하며 매대에 비어있는 상품이 발생하면 
 모바일 App에 알람을 주어 직원이 매장에 상품을 진열 할 수 있도록 도움을 줌
 
+<table>
+  <tr>
+    <td style="text-align: center;">주행 중인 드론 모습/td>
+    <td style="text-align: center;">드론이 촬영한 진열대 모습</td>
+  </tr>
+  <tr>
+    <td><img src="img/dron_fly.png" alt="Dron Fly" width="500"/></td>
+    <td><img src="img/detect_blank.png" alt="Dron camera view" width="500"/></td>
+  </tr>
+</table>
+
 ## 주요 기능
 
 *   **자율 주행 및 경로 이동**: Tello 드론이 미리 정의된 경로 (`command.txt`)를 따라 자율적으로 비행합니다.
